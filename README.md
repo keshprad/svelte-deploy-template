@@ -1,3 +1,12 @@
+# svelte-deploy-template
+[![Deploy to GitHub Pages](https://github.com/keshprad/svelte-deploy-template/actions/workflows/deploy.yaml/badge.svg)](https://github.com/keshprad/svelte-deploy-template/actions/workflows/deploy.yaml)
+
+Svelte app template with a GitHub Pages deploy workflow.
+
+Generated from [svelte/template](https://github.com/sveltejs/template).
+
+---
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
