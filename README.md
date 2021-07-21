@@ -3,7 +3,7 @@
 
 Svelte app template with a GitHub Pages deploy workflow.
 
-Generated from [svelte/template](https://github.com/sveltejs/template).
+Generated from [sveltejs/template](https://github.com/sveltejs/template).
 
 ---
 
