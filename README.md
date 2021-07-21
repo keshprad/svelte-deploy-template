@@ -1,7 +1,7 @@
 # svelte-deploy-template
 [![Deploy to GitHub Pages](https://github.com/keshprad/svelte-deploy-template/actions/workflows/deploy.yaml/badge.svg)](https://github.com/keshprad/svelte-deploy-template/actions/workflows/deploy.yaml)
 
-Svelte app template setup with the [Svelte Materialify](https://svelte-materialify.vercel.app/) UI Library and a GitHub Pages deploy workflow.
+Svelte app template set up with the [Svelte Materialify](https://svelte-materialify.vercel.app/) UI Library and a GitHub Pages deploy workflow.
 
 Generated from [sveltejs/template](https://github.com/sveltejs/template).
 
