@@ -3,9 +3,18 @@
 
 Svelte app template set up with the [Svelte Materialify](https://svelte-materialify.vercel.app/) UI Library and a GitHub Pages deploy workflow.
 
-Generated from [sveltejs/template](https://github.com/sveltejs/template).
+**Generated from [sveltejs/template](https://github.com/sveltejs/template).**
 
+### Download
+Download with [degit](https://github.com/Rich-Harris/degit)
+```bash
+npx degit keshprad/svelte-deploy-template svelte-app
+cd svelte-app
+```
 ---
+---
+
+# sveltejs/template readme
 
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
